@@ -1,6 +1,6 @@
 # ✌️ Hello there, I'm Anderson Marques!
 
-- 👨🏽‍💻 I'm UI/UX Designer who get to know HTML and CSS. Currently learning JS/React js.
+- 👨🏽‍💻 I'm a UX Designer who get to know HTML and CSS. Currently learning JS/React js.
 
 
 ## 🌎 My links:
