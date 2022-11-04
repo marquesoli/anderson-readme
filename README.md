@@ -1,9 +1,9 @@
-# ✌️ Olá, eu sou Anderson Marques!
+# ✌️ Hello there, I'm Anderson Marques!
 
-- 👨🏽‍💻 Sou um UI/UX Designer que sabe HTML e CSS. Atualmente estou aprendendo React js.
+- 👨🏽‍💻 I'm UI/UX Designer who get to know HTML and CSS. Currently learning JS/React js.
 
 
-## 🌎 Meus links:
+## 🌎 My links:
 
 - <a href="https://www.linkedin.com/in/andersonmarquesoli/" target="_blank" rel="noreferrer noopener">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Ícone do LinkedIn" style="width: 16px; height: 16px" /> 
