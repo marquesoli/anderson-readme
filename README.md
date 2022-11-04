@@ -1,6 +1,6 @@
 # ✌️ Olá, eu sou Anderson Marques!
 
-- 👨‍👨🏽‍💻 Sou um UI/UX Designer que sabe HTML e CSS. Atualmente estou aprendendo React js.
+- 👨🏽‍💻 Sou um UI/UX Designer que sabe HTML e CSS. Atualmente estou aprendendo React js.
 
 
 ## 🌎 Meus links:
