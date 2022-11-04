@@ -1,6 +1,6 @@
 # ✌️ Olá, eu sou Anderson Marques!
 
-- 🌱 Sou um UI/UX Designer que sabe HTML e CSS. Atualmente estou aprendendo React js.
+- 👨‍👨🏽‍💻 Sou um UI/UX Designer que sabe HTML e CSS. Atualmente estou aprendendo React js.
 
 
 ## 🌎 Meus links:
@@ -15,7 +15,7 @@
     Instagram
   </a>
 
-## 📃 Status
+## 🔴 Status
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=marquesoli&theme=swift&show_icons=true" alt="Estatísticas do Github de Anderson Marques, como quantas estrelas ele ganhou até agora ou quantos commits ele fez." style="width: 420px;"/>
     
