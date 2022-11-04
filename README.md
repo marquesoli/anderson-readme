@@ -15,7 +15,7 @@
     Instagram
   </a>
   
-  - <a href="https://www.behance.net/marquesoli" target="_blank" rel="noreferrer noopener">
+ - <a href="https://www.behance.net/marquesoli" target="_blank" rel="noreferrer noopener">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/behance.svg" alt="Ícone do Behance" style="width: 16px; height: 16px" />
     Behance
   </a>
